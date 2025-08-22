@@ -1,99 +1,53 @@
 {
-"name": 
-"test",
-"subtitle": 
-"A source for all of my apps",
-"description": 
-"Welcome to my source! Here you'll find all of my apps.",
-"iconURL": 
-"https://i.imgur.com/c3bm2Dk.png",
-"website": 
-"https://altstudio.app",
-"patreonURL": 
-"https://patreon.com/altstudio",
-"tintColor":
-"#6156e2",
-"featuredApps": 
-[
-],
-"apps": 
-[
-{
-"name": 
-"Psuedoscience Clicker",
-"bundleIdentifier": 
-"com.shultzonline.Psuedoscience-Clicker",
-"marketplaceID": 
-"",
-"developerName": 
-"Example Developer",
-"subtitle": 
-"An awesome app.",
-"localizedDescription": 
-"This is an awesome app only available on AltStore.",
-"iconURL": 
-"https://i.imgur.com/OmSbzLb.png",
-"tintColor": 
-"#fc0404",
-"category": 
-"other",
-"screenshots": 
-[
-],
-"versions": 
-[
-{
-"downloadURL": 
-"https://github.com/acmbc/pseudo/raw/refs/heads/main/file.ipa",
-"size": 
-100000,
-"version": 
-"1.0",
-"buildVersion": 
-null,
-"date": 
-"2025-08-22T22:14:00-04:00",
-"localizedDescription": 
-null,
-"minOSVersion": 
-null
-}
-],
-"appPermissions": 
-{
-"entitlements": 
-[
-],
-"privacy": 
-{
-}
-},
-"patreon": 
-{
-}
-}
-],
-"news": 
-[
-{
-"title": 
-"New Feature Announcement",
-"identifier": 
-"news_epieao51yz",
-"caption": 
-"Introducing a new feature in AltStore!",
-"date": 
-"2025-08-22T18:10",
-"tintColor": 
-"#6156e2",
-"imageURL": 
-"",
-"notify": 
-true,
-"url": 
-"https://example.com/new_feature_details",
-"appID": 
-null
-}
-]
+  "name": "test",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/c3bm2Dk.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Psuedoscience Clicker",
+      "bundleIdentifier": "com.shultzonline.Psuedoscience-Clicker",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/OmSbzLb.png",
+      "tintColor": "#fc0404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/acmbc/pseudo/raw/refs/heads/main/file.ipa",
+          "size": 99000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-08-23T02:14:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_epieao51yz",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-08-22T18:10",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
 }
