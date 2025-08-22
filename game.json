@@ -37,17 +37,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "New Feature Announcement",
-      "identifier": "news_epieao51yz",
-      "caption": "Introducing a new feature in AltStore!",
-      "date": "2025-08-22T18:10",
-      "tintColor": "#6156e2",
-      "imageURL": "",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": null
-    }
-  ]
+  "news": []
 }
