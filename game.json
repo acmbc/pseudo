@@ -37,5 +37,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_bzlj40cno5",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-08-22T18:19",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/LVwFwlF.png",
+      "notify": true,
+      "url": "https://i.imgur.com/LVwFwlF.png",
+      "appID": "com.shultzonline.Psuedoscience-Clicker"
+    }
+  ]
 }
